@@ -40,3 +40,6 @@ gambar diatas adalah gambar setelah mengisi data pada tabel direktur.
 
 gambar tersebut merupakan tabel dari cs. pada tabel tersebut terdapat id_cs sebagai primary key. pada tabel tersebut juga terdapat foregin key yaitu id_direktur karena mempunyai hubungan yaitu cs melaporkan ke direktur.
 
+<img width="549" alt="cs2" src="https://github.com/zoniaryantoni/basda3/assets/131677685/97bbfc60-d8f7-48a4-9011-17d9b96d5753">
+
+setelah membuat database yang sesuai, selanjutnya mengisi data pada tabel tersebut seperti gambar di atas
