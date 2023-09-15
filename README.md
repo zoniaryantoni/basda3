@@ -31,3 +31,8 @@ setelah membuat database yang sesuai dengan tabel, kemudian mengisi database dar
 
 gambar diatas adalah tabel dari database direktur. pada tabel tersebut dilihat bahwa yang menjadi primary key adalah id_direktur
 
+<img width="554" alt="direktur 2" src="https://github.com/zoniaryantoni/basda3/assets/131677685/79e2626c-66dc-4963-89d2-1bfb30fecf35">
+
+gambar diatas adalah gambar setelah mengisi data pada tabel direktur
+
+# tabel cs
