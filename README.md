@@ -18,3 +18,6 @@ gambar diatas adalah tabel dari database teller. pada tabel diatas dapat dilihat
 setelah membuat database yang sesuai dengan tabel, selanjutnya adalah mengisi database yang telah dibuat
 
 # tabel saldo tabungan
+<img width="547" alt="saldo tabungan" src="https://github.com/zoniaryantoni/basda3/assets/131677685/6010ba33-9870-4611-b657-97f197aad27a">
+
+gambar diatas adalah tabel dari saldo tabungan. pada tabel tersebut yang menjadi primary key adalah no_rek. disini juga tredapat id_teller sebagai foreign key yang diambil dari tabel teller, karena mempunyai hubungan yaitu teller menghasilkan saldo tabungan. dan juga terdapat id_direktur sebagai foreign key yang diambil dari tabel direktur, karena mempunyai hubungan yaitu saldo tabungan dilaporkan ke direktur
