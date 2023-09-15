@@ -13,3 +13,4 @@ setelah table dibuat sesuai dengan databse, kemudiian mengisi database yang dibu
 
 gambar diatas adalah table dari database teller. pada table diatas dapat dilihat bahwa yang menjadi primary key adalah id_teller
 
+
