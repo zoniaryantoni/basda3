@@ -6,3 +6,5 @@ ganbar diatas adalah table database dari nasabah bank. pada database dapat dilih
 
 <img width="728" alt="nasabh 2" src="https://github.com/zoniaryantoni/basda3/assets/131677685/01936ff4-4f0e-496b-94de-98b6529c9759">
 
+setelah table dibuat sesuai dengan databse, kemudiian mengisi database yang dibuat, seperti gambar di atas
+
