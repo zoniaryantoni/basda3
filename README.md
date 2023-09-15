@@ -8,3 +8,4 @@ ganbar diatas adalah table database dari nasabah bank. pada database dapat dilih
 
 setelah table dibuat sesuai dengan databse, kemudiian mengisi database yang dibuat, seperti gambar di atas
 
+# tabel teller
