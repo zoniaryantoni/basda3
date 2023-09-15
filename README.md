@@ -22,3 +22,8 @@ setelah membuat database yang sesuai dengan tabel, selanjutnya adalah mengisi da
 
 gambar diatas adalah tabel dari saldo tabungan. pada tabel tersebut yang menjadi primary key adalah no_rek. disini juga tredapat id_teller sebagai foreign key yang diambil dari tabel teller, karena mempunyai hubungan yaitu teller menghasilkan saldo tabungan. dan juga terdapat id_direktur sebagai foreign key yang diambil dari tabel direktur, karena mempunyai hubungan yaitu saldo tabungan dilaporkan ke direktur
 
+<img width="662" alt="saldo tabungan 2" src="https://github.com/zoniaryantoni/basda3/assets/131677685/ff9efd4f-d283-4b6a-aa9d-30b935e6862c">
+
+setelah membuat database yang sesuai dengan tabel, kemudian mengisi database dari tabel yang telah dibuat
+
+# tabel direktur
