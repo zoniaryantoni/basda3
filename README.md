@@ -2,7 +2,7 @@
 # tabel nasabah
 <img width="701" alt="123" src="https://github.com/zoniaryantoni/basda3/assets/131677685/a5584eed-ad50-4cce-bb80-b5162bbd99ae">
 
-ganbar diatas adalah tabel database dari nasabah bank. pada tabel database dapat dilihat bahwa yang menjadi primary key adalah id_nasabah. disini juga terdapat id_teller sebagai foreign key yang diambil dari tabel teller, karena mempunyai hubungan yaitu nasabah menyetor ke teller.
+gambar diatas adalah tabel database dari nasabah bank. pada tabel database dapat dilihat bahwa yang menjadi primary key adalah id_nasabah. disini juga terdapat id_teller sebagai foreign key yang diambil dari tabel teller, karena mempunyai hubungan yaitu nasabah menyetor ke teller.
 
 <img width="728" alt="nasabh 2" src="https://github.com/zoniaryantoni/basda3/assets/131677685/01936ff4-4f0e-496b-94de-98b6529c9759">
 
@@ -42,4 +42,4 @@ gambar tersebut merupakan tabel dari cs. pada tabel tersebut terdapat id_cs seba
 
 <img width="549" alt="cs2" src="https://github.com/zoniaryantoni/basda3/assets/131677685/97bbfc60-d8f7-48a4-9011-17d9b96d5753">
 
-setelah membuat database yang sesuai, selanjutnya mengisi data pada tabel tersebut seperti gambar di atas
+setelah membuat database yang sesuai, selanjutnya mengisi data pada tabel tersebut seperti gambar di atas.
