@@ -27,3 +27,7 @@ gambar diatas adalah tabel dari saldo tabungan. pada tabel tersebut yang menjadi
 setelah membuat database yang sesuai dengan tabel, kemudian mengisi database dari tabel yang telah dibuat
 
 # tabel direktur
+<img width="685" alt="direktur 1" src="https://github.com/zoniaryantoni/basda3/assets/131677685/b1b95180-7547-4838-aef8-c2abb74fc81f">
+
+gambar diatas adalah tabel dari database direktur. pada tabel tersebut dilihat bahwa yang menjadi primary key adalah id_direktur
+
