@@ -13,4 +13,8 @@ setelah table dibuat sesuai dengan databse, kemudiian mengisi database yang dibu
 
 gambar diatas adalah table dari database teller. pada table diatas dapat dilihat bahwa yang menjadi primary key adalah id_teller
 
+<img width="528" alt="teller2" src="https://github.com/zoniaryantoni/basda3/assets/131677685/5d1cfb71-8078-48e5-a340-205d08f39493">
+
+setelah membuat database yang sesuai dengan table, selanjutnya adalah mengisi database yang telah dibuat
+
 
