@@ -6,7 +6,7 @@ Pembahasan :
 
 Gambar diatas adalah tabel database dari nasabah bank. pada tabel database dapat dilihat bahwa yang menjadi primary key adalah id_nasabah. disini juga terdapat no_rek sebagai foreign key. id_teller sebagai foreign key yang diambil dari tabel teller, karena mempunyai hubungan yaitu nasabah menyetor ke teller.
 
-<img width="728" alt="nasabh 2" src="https://github.com/zoniaryantoni/basda3/assets/131677685/01936ff4-4f0e-496b-94de-98b6529c9759">
+<img width="740" alt="image" src="https://github.com/zoniaryantoni/basda3/assets/131677685/b2ff65b0-f1fe-4eee-9756-f36789162d59">
 
 Pembahasan :
 
